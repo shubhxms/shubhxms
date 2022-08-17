@@ -1,5 +1,9 @@
 ### Hi there 👋
-To be updated :)
+i am a coder and dreamer. foss lover.
+- 🔭 I’m currently working on **patrika** a rss reader.
+- 🌱 I’m currently learning more about web-dev and crypto world.
+- 👯 I’m looking to collaborate on anything!
+
 <!--
 **devshubhamshah/devshubhamshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
