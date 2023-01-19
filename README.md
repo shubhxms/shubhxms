@@ -1,6 +1,6 @@
 ### Hi there 👋
 i am a coder and dreamer. foss lover.
-- 🔭 I’m currently working on **patrika** a rss reader.
+- 🔭 I’m currently working on * coming soon *
 - 🌱 I’m currently learning more about web-dev and crypto world.
 - 👯 I’m looking to collaborate on anything!
 
