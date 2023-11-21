@@ -1,7 +1,5 @@
 ### Hi there 👋
-i am a coder and dreamer. foss lover.
-- 🔭 I’m currently working on * coming soon *
-- 🌱 I’m currently learning more about web-dev and crypto world.
+i am a coder and foss lover.
 - 👯 I’m looking to collaborate on anything!
 
 <!--
