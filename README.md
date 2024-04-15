@@ -1,6 +1,4 @@
-### Hi there 👋
-i am a coder and foss lover.
-- 👯 I’m looking to collaborate on anything!
+shubham here :)
 
 <!--
 **devshubhamshah/devshubhamshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
